@@ -1,5 +1,5 @@
 context:
-  version: "15.13.0"
+  version: "15.13.1"
 
 package:
   name: cypress
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/cypress/-/cypress-${{ version }}.tgz
-  sha256: d90c1ffdbc4144852de1a43c392bb85c026d89bf4871c0a9f70674afeb0d677f
+  sha256: a53829a0a444db027399792402acdd79daeb2aa1136281d4091996184c041d22
 
 build:
   number: 0
